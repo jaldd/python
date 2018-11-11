@@ -1,2 +1,2 @@
 # python
-lddpython学习
+python学习
